@@ -1,0 +1,4 @@
+Personal python script for exporing SoundCloud social graph.
+
+d3 part gracefully borrowed from d3.js-boilerplate:
+https://github.com/zmaril/d3.js-boilerplate
